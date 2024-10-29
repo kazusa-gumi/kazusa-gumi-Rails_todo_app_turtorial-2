@@ -1,1 +1,1 @@
-puts "Hello World!"
+puts "Hello World!"rails new . --css tailwind --skip-test
